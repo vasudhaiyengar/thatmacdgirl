@@ -3,14 +3,14 @@
     <title>That MACD Girl</title>
     <link href="https://vasudhaiyengar.github.io/thatmacdgirl/feed.xml" rel="self" />
     <link href="https://vasudhaiyengar.github.io/thatmacdgirl" />
-    <updated>2026-04-10T02:16:31+05:30</updated>
+    <updated>2026-04-10T03:42:09+05:30</updated>
     <author>
         <name>Vasudha Iyengar</name>
     </author>
     <id>https://vasudhaiyengar.github.io/thatmacdgirl</id>
 
     <entry>
-        <title>Post 1</title>
+        <title>Getting Started With The MACD</title>
         <author>
             <name>Vasudha Iyengar</name>
         </author>
@@ -20,18 +20,14 @@
         <updated>2026-04-10T01:52:59+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    Hey welcome to my blog, this is a test post to see&hellip;
+                    Hi there, this post is under construction. Stay tuned :)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-  <p>
-    Hey welcome to my blog, this is a test post to see if it works&nbsp;
-  </p>
-
-  <p>
-    Byeeeee
+  <p class="align-center">
+    <i>Hi there, this post is under construction. Stay tuned :)</i>
   </p>
             ]]>
         </content>
