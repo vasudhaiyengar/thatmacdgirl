@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "That MACD Girl",
+    "description": "",
+    "home_page_url": "https://vasudhaiyengar.github.io/thatmacdgirl",
+    "feed_url": "https://vasudhaiyengar.github.io/thatmacdgirl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vasudha Iyengar"
+    },
+    "items": [
+        {
+            "id": "https://vasudhaiyengar.github.io/thatmacdgirl/post-1.html",
+            "url": "https://vasudhaiyengar.github.io/thatmacdgirl/post-1.html",
+            "title": "Post 1",
+            "summary": "Hey welcome to my blog, this is a test post to see&hellip;",
+            "content_html": "\n  <p>\n    Hey welcome to my blog, this is a test post to see if it works&nbsp;\n  </p>\n\n  <p>\n    Byeeeee\n  </p>",
+            "author": {
+                "name": "Vasudha Iyengar"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-10T01:52:59+05:30",
+            "date_modified": "2026-04-10T01:52:59+05:30"
+        }
+    ]
+}

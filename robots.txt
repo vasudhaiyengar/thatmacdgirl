@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vasudhaiyengar.github.io/thatmacdgirl/sitemap.xml

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>That MACD Girl</title>
+    <link href="https://vasudhaiyengar.github.io/thatmacdgirl/feed.xml" rel="self" />
+    <link href="https://vasudhaiyengar.github.io/thatmacdgirl" />
+    <updated>2026-04-10T01:52:59+05:30</updated>
+    <author>
+        <name>Vasudha Iyengar</name>
+    </author>
+    <id>https://vasudhaiyengar.github.io/thatmacdgirl</id>
+
+    <entry>
+        <title>Post 1</title>
+        <author>
+            <name>Vasudha Iyengar</name>
+        </author>
+        <link href="https://vasudhaiyengar.github.io/thatmacdgirl/post-1.html"/>
+        <id>https://vasudhaiyengar.github.io/thatmacdgirl/post-1.html</id>
+
+        <updated>2026-04-10T01:52:59+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hey welcome to my blog, this is a test post to see&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Hey welcome to my blog, this is a test post to see if it works&nbsp;
+  </p>
+
+  <p>
+    Byeeeee
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
